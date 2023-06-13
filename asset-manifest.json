@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-AgeCalc/static/css/main.c8df2f2c.css",
+    "main.js": "/React-AgeCalc/static/js/main.c766c121.js",
+    "index.html": "/React-AgeCalc/index.html",
+    "main.c8df2f2c.css.map": "/React-AgeCalc/static/css/main.c8df2f2c.css.map",
+    "main.c766c121.js.map": "/React-AgeCalc/static/js/main.c766c121.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8df2f2c.css",
+    "static/js/main.c766c121.js"
+  ]
+}
